@@ -26,9 +26,9 @@ Dataset from Tweet Sentiment Extraction Kaggle competition is used.
 
 ## Technical 
 Problem statement is formulated as a Question Answering problem
-Input text : Tweet
-Question : Sentiment
-Answer : part of the Tweet.
+Input text : Tweet<br>
+Question : Sentiment<br>
+Answer : part of the Tweet.b<Br>
 
 Tensorflow deep learning frame work is used.
 
